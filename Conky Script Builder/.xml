@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<conky>
+<font>DejaVU Sans</font>
+<fontsize>8</fontsize>
+<aligntext>Top Left</aligntext>
+<textupper>No</textupper>
+<titlecolor>#0000ff<titlecolor>
+<textcolor>#ff3333<textcolor>
+<transparent>Yes</transparent>
+<host>Yes</host>
+<kernel>Yes</kernel>
+<uptime>Yes</uptime>
+<time>Yes</time>
+<date>Yes</date>
+<cpuspeed>Yes</cpuspeed>
+<cpuload>Yes</cpuload>
+<cpuusage>Yes</cpuusage>
+<cpuproc>Yes</cpuproc>
+<cpuprocnum>10</cpuprocnum>
+<cpuact>Yes</cpuact>
+<ram>Yes</ram>
+<homedir>Yes</homedir>
+<fedora>Yes</fedora>
+<publicip>Yes</publicip>
+<netusage>Yes</netusage>
+<netapp>Yes</netapp>
+<weather>Yes</weather>
+<fortunes>Yes</fortunes>
+</conky>
