@@ -1,0 +1,24 @@
+{
+  "profiles": {
+    "tstreit1": {
+      "name": "tstreit1",
+      "playerUUID": "7c75a9d791c94a1eabb641461316f49b"
+    },
+    "Minecrunch Mod": {
+      "name": "Minecrunch Mod",
+      "gameDir": "minecrunchmod",
+      "lastVersionId": "1.6.4-Forge9.11.1.965",
+    }
+  },
+  "selectedProfile": "Minecrunch Mod",
+  "clientToken": "e1cd2db9-590b-4fa0-86ed-f877eb11b75d",
+  "authenticationDatabase": {
+    "7c75a9d791c94a1eabb641461316f49b": {
+      "username": "tstreit1@gmail.com",
+      "accessToken": "479689dfa21a4b499f5370eb3105c336",
+      "userid": "40ad3b0ec6b049e5a6e6308e717beeca",
+      "uuid": "7c75a9d7-91c9-4a1e-abb6-41461316f49b",
+      "displayName": "tstreit1"
+    }
+  }
+}
